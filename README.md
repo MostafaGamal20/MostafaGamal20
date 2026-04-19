@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mostafa Gamal</h1>
+<h3 align="center">Software Test Engineer | Automation Engineer</h3>
 
-<!--
-**MostafaGamal20/MostafaGamal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **AI, DevOps Tools, Playwright**
+
+💬 Ask me about **Java, TypeScript, Selenium, Playwright, API Automation**
+
+📫 How to reach me: **mr.mostafagamal98@gmail.com**
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/mostafa-gamal-1b377a251/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.facebook.com/share/1FrcRNPfgC/" target="blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,selenium,playwright,mysql,postman,jenkins,git,html" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaGamal20&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGamal20&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Profile Views:
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=MostafaGamal20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
