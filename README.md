@@ -2,6 +2,10 @@
 <h3 align="center">Software Test Engineer | Automation Engineer</h3>
 
 ---
+### 🔥 Profile Views:
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=MostafaGamal20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -40,7 +44,4 @@
 
 ---
 
-### 🔥 Profile Views:
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MostafaGamal20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
