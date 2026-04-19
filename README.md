@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/mostafa-gamal-1b377a251/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://www.facebook.com/share/1FrcRNPfgC/" target="blank">
+<a href="https://www.facebook.com/share/1HyR3HuKfb/" target="blank">
 <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
 </a>
 </p>
@@ -27,7 +27,7 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,selenium,playwright,mysql,postman,jenkins,git,html" />
+<img src="https://skillicons.dev/icons?i=java,ts,playwright,selenium,mysql,postman,jenkins,git,html" />
 </p>
 
 ---
